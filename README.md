@@ -2,5 +2,5 @@
 ### INTERMEDIO
 
 # Enlaces
-[Usa Git correctamente][defhttps://www.atlassian.com/es/git]
+[Usa Git correctamente](https://www.atlassian.com/es/git)
 
